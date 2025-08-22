@@ -1,8 +1,8 @@
 // console.log("hello from poo, this is poo. ");
 require("dotenv").config();
-const http = require("http");
+// const http = require("http");
 const path = require("path");
-const fs = require("fs");
+// const fs = require("fs");
 
 const express = require("express");
 const app = express();
